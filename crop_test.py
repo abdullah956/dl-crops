@@ -4,7 +4,7 @@ import tensorflow as tf
 from tensorflow.keras.preprocessing import image
 
 # Load the trained model
-model_path = 'crop_data.h5'
+model_path = 'crop.h5'
 if os.path.exists(model_path):
     print(f"Loading model from {model_path}...")
     model = tf.keras.models.load_model(model_path)
