@@ -175,4 +175,15 @@ cython_debug/
 
 
 Crop_Dataset
+Crop_Disease
 crop_data.h5
+3
+sugar_cane
+
+
+corn.h5
+wheat.h5 
+crop.h5
+rice.h5 
+sugarcane.h5
+potato.h5

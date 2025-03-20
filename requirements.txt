@@ -6,3 +6,5 @@ scikit-learn
 opencv-python
 pillow
 django
+kaggle
+
